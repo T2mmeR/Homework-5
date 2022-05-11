@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "23663069693",
+    "project_id": "lvanishvili",
+    "storage_bucket": "lvanishvili.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23663069693:android:d1b1c2f380861065e7b194",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23663069693-nq8fp37ctnq23esloshls6b5eiqpbb8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ67bu1Rv0jz1C7jn2aJRxQDtVWxfEqxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23663069693-nq8fp37ctnq23esloshls6b5eiqpbb8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
